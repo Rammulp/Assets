@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: planets
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: a2d3dc40e0c372a42a9cdb2eaa9fa256, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 03d83214badbae2469d3cfed4e56fde2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ce869335e870bb44cb51271395bfcd5b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: c0049afba1087e8488b6b815117de9e7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 28ba7589d3c84b846914ec9c6619f396, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e4d37b61b3f31f24dbfa340204b67df1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: dbe9ab6e48c6c034eac3507126d0d678, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 6dbdee3e3d73ea0468176d52845d6e68, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8030fc0bd5f1e4741befc2f987413f15, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: bf15d43a2b9702d47a06f4d1e7fab650, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 620496b7cb031204ca7ece8a1aeb0066, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d21746dcc2083ef4299230a72e10b323, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 876836a1c68e3ad4f88cbe259b29c99b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 3099cc45edd5ff0459d2b7016ce2a42d, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
